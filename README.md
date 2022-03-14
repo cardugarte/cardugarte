@@ -1,4 +1,9 @@
-### Hi 👋 welcome to my repository
+# Hi 👋 my name is Carlos
+![](https://carlosdugarte.com/assets/images/greetings.png)
+
+I'm Software Developer living in Buenos Aires, Argentina.
+
+## Skills & knowledge
 
 <!--
 **cardugarte/cardugarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
