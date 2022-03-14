@@ -3,7 +3,21 @@
 
 I'm Software Developer living in Buenos Aires, Argentina.
 
+Diseño y desarrollo interfaces de usuario para aplicaciones web,
+usando tecnologías modernas como frameworks y librerías de JavaScript,
+Sintaxis de HTML 5 para optimizar la indexación en los motores de búsqueda
+y por supuesto, apuntando al desarrollo FullStack.
+
 ## Skills & knowledge
+- ✨Angular
+- ✨Ionic
+- ✨Node.Js
+- ✨Express
+- ✨MongoDB
+- ✨React
+- ✨SEO
+- ✨Material Design
+- ✨Sass
 
 <!--
 **cardugarte/cardugarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
