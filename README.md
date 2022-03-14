@@ -19,6 +19,8 @@ y por supuesto, apuntando al desarrollo FullStack.
 - ✨Material Design
 - ✨Sass
 
+## También puedes descubrir todos mis proyectos disponibles en la siguiente lista:
+
 <!--
 **cardugarte/cardugarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
