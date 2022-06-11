@@ -13,8 +13,6 @@ y por supuesto, apuntando al desarrollo FullStack.
 - ✨Ionic
 - ✨Node.Js
 - ✨Express
-- ✨MongoDB
-- ✨React
 - ✨SEO
 - ✨Material Design
 - ✨Sass
