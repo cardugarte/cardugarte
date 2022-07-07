@@ -1,5 +1,5 @@
-# Hi 👋 my name is Carlos  
-![](https://carlosdugarte.com/assets/images/greetings.png)  
+<!-- # Hi 👋 my name is Carlos  
+![](https://carlosdugarte.com/assets/images/greetings.png)  -->
 
 I want to travel the world 🌎🍃
 Front-end Developer JavaScript  
