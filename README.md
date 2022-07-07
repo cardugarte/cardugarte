@@ -1,25 +1,9 @@
-# Hi 👋 my name is Carlos
-![](https://carlosdugarte.com/assets/images/greetings.png)
+# Hi 👋 my name is Carlos  
+![](https://carlosdugarte.com/assets/images/greetings.png)  
 
 I want to travel the world 🌎🍃
-Front-end Developer JavaScript
-• Git
-• Angular
-• Ionic
-• Material UI
-
-I'm design and development user interfaces to web applications using technologies as Angular, Ionic and Material Design.
-
-I like it to experience and add new technology to my skills and management my personal projects with
-
-• JamStack
-• GraphQL
-• React
-• Next.js
-
-Autodidacta y apasionado por la tecnología como herramienta para potenciar las habilidades de las personas y crear oportunidades para cambiar vidas.💖
-
-En mis tiempos libres estudio Blockchain y Web3
+Front-end Developer JavaScript  
+I'm design and development user interfaces to web applications using technologies as Angular, Ionic and Material Design.  
 
 ## Skills & knowledge
 - ✨Angular
@@ -27,6 +11,17 @@ En mis tiempos libres estudio Blockchain y Web3
 - ✨SEO
 - ✨Material Design
 - ✨Sass
+
+I like it to experience and add new technology to my skills and management my personal projects with
+
+• JamStack  
+• GraphQL  
+• React  
+• Next.js  
+
+Autodidacta y apasionado por la tecnología como herramienta para potenciar las habilidades de las personas y crear oportunidades para cambiar vidas.💖
+
+En mis tiempos libres estudio Blockchain y Web3
 
 ## También puedes descubrir todos mis proyectos disponibles en la siguiente lista:
 
