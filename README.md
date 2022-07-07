@@ -1,18 +1,29 @@
 # Hi 👋 my name is Carlos
 ![](https://carlosdugarte.com/assets/images/greetings.png)
 
-I'm Software Developer living in Buenos Aires, Argentina.
+I want to travel the world 🌎🍃
+Front-end Developer JavaScript
+• Git
+• Angular
+• Ionic
+• Material UI
 
-Diseño y desarrollo interfaces de usuario para aplicaciones web,
-usando tecnologías modernas como frameworks y librerías de JavaScript,
-Sintaxis de HTML 5 para optimizar la indexación en los motores de búsqueda
-y por supuesto, apuntando al desarrollo FullStack.
+I'm design and development user interfaces to web applications using technologies as Angular, Ionic and Material Design.
+
+I like it to experience and add new technology to my skills and management my personal projects with
+
+• JamStack
+• GraphQL
+• React
+• Next.js
+
+Autodidacta y apasionado por la tecnología como herramienta para potenciar las habilidades de las personas y crear oportunidades para cambiar vidas.💖
+
+En mis tiempos libres estudio Blockchain y Web3
 
 ## Skills & knowledge
 - ✨Angular
 - ✨Ionic
-- ✨Node.Js
-- ✨Express
 - ✨SEO
 - ✨Material Design
 - ✨Sass
