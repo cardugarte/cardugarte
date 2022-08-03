@@ -23,6 +23,9 @@ Autodidacta y apasionado por la tecnología como herramienta para potenciar las 
 
 En mis tiempos libres estudio Blockchain y Web3
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardugarte&show_icons=true&theme=dark&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardugarte&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
 ## También puedes descubrir todos mis proyectos disponibles en la siguiente lista:
 
 <!--
