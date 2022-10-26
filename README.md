@@ -18,6 +18,7 @@ I like it to experience and add new technology to my skills and management my pe
 • GraphQL  
 • React  
 • Next.js  
+• Solidity
 
 Autodidacta y apasionado por la tecnología como herramienta para potenciar las habilidades de las personas y crear oportunidades para cambiar vidas.💖
 
