@@ -8,17 +8,17 @@ I'm design and development user interfaces to web applications using technologie
 ## Skills & knowledge
 - ✨Angular
 - ✨Ionic
-- ✨SEO
-- ✨Material Design
+- ✨React
+- ✨JamStack
 - ✨Sass
 
 I like it to experience and add new technology to my skills and management my personal projects with
 
-• JamStack  
-• GraphQL  
-• React  
+• GraphQL 
 • Next.js  
 • Solidity
+• Lens Protocol
+• TheGraph Protocol
 
 Autodidacta y apasionado por la tecnología como herramienta para potenciar las habilidades de las personas y crear oportunidades para cambiar vidas.💖
 
