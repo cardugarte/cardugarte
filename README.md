@@ -1,6 +1,6 @@
 <!-- # Hi 👋 my name is Carlos  
 ![](https://carlosdugarte.com/assets/images/greetings.png)  -->
-<img source="[https://github.com/account](https://avatars.githubusercontent.com/u/73410324?v=4)" />
+<!-- ![](https://github.com/account](https://avatars.githubusercontent.com/u/73410324?v=4){width='100px'} -->
 
 I want to travel the world 🌎🍃
 Front-end Developer JavaScript  
