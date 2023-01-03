@@ -7,11 +7,12 @@ Front-end Developer JavaScript
 I'm design and development user interfaces to web applications using technologies as Angular, Ionic and Material Design.  
 
 ## Skills & knowledge
+- ✨Sass
 - ✨Angular
 - ✨Ionic
 - ✨React
-- ✨JamStack
-- ✨Sass
+- ✨Node.js
+- ✨Express
 
 I like it to experience and add new technology to my skills and management my personal projects with
 
