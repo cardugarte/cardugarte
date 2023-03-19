@@ -4,7 +4,7 @@
 
 I want to travel the world 🌎🍃
 Front-end Developer JavaScript  
-I'm design and development user interfaces to web applications using technologies as Angular, Ionic and Material Design.  
+I'm design and development user interfaces to web applications using technologies as:  
 
 ## Skills & knowledge
 - ✨Next.js  
@@ -14,7 +14,6 @@ I'm design and development user interfaces to web applications using technologie
 - ✨Express
 
 I like it to experience and add new technology to my skills and management my personal projects with
-
 
 - ✨Sass
 - ✨Angular
