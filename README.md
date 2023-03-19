@@ -7,20 +7,19 @@ Front-end Developer JavaScript
 I'm design and development user interfaces to web applications using technologies as Angular, Ionic and Material Design.  
 
 ## Skills & knowledge
-- ✨Sass
-- ✨Angular
-- ✨Ionic
-- ✨React
+- ✨Next.js  
+- ✨Solidity
+- ✨Tailwind css
 - ✨Node.js
 - ✨Express
 
 I like it to experience and add new technology to my skills and management my personal projects with
 
-• GraphQL 
-• Next.js  
-• Solidity
-• Lens Protocol
-• TheGraph Protocol
+
+- ✨Sass
+- ✨Angular
+- ✨Ionic
+- ✨React
 
 Autodidacta y apasionado por la tecnología como herramienta para potenciar las habilidades de las personas y crear oportunidades para cambiar vidas.💖
 
