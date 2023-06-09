@@ -3,12 +3,13 @@
 <!-- ![](https://github.com/account](https://avatars.githubusercontent.com/u/73410324?v=4){width='100px'} -->
 
 I want to travel the world 🌎🍃
-Front-end Developer JavaScript  
-I'm design and development user interfaces to web applications using technologies as:  
+FullStack Developer JavaScript && TypeScript
+I'm development user interfaces to web applications using technologies as:  
 
 ## Skills & knowledge
+- ✨Bitcoin
 - ✨Next.js  
-- ✨Solidity
+- ✨Lightning Network
 - ✨Tailwind css
 - ✨Node.js
 - ✨Express
@@ -21,8 +22,6 @@ I like it to experience and add new technology to my skills and management proje
 - ✨React
 
 Autodidacta y apasionado por la tecnología como herramienta para potenciar las habilidades de las personas y crear oportunidades para cambiar vidas.💖
-
-En mis tiempos libres estudio Blockchain y Web3
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardugarte&show_icons=true&theme=dark&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardugarte&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
