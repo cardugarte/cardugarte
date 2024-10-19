@@ -7,23 +7,18 @@ FullStack Developer JavaScript && TypeScript
 I'm development user interfaces to web applications using technologies as:  
 
 ## Skills & knowledge
-- ✨Bitcoin
+- ✨Bitcoin / Lightning Network
+- ✨Angular
+- ✨Ionic
 - ✨Next.js  
-- ✨Lightning Network
 - ✨Tailwind css
 - ✨Node.js
 - ✨Express
-
-I like it to experience and add new technology to my skills and management projects with
-
-- ✨Sass
-- ✨Angular
-- ✨Ionic
-- ✨React
-
+  
 Autodidacta y apasionado por la tecnología como herramienta para potenciar las habilidades de las personas y crear oportunidades para cambiar vidas.💖
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardugarte&show_icons=true&theme=dark&hide_border=false)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardugarte&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## También puedes descubrir todos mis proyectos disponibles en la siguiente lista:
