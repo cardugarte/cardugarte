@@ -8,6 +8,7 @@ I'm development user interfaces to web applications using technologies as:
 
 ## Skills & knowledge
 - ✨Bitcoin / Lightning Network
+- ✨Nostr Protocol
 - ✨Angular
 - ✨Ionic
 - ✨Next.js  
