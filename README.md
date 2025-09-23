@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/AI-RAG%20%7C%20Agents%20%7C%20LLMs-informational" />
   <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20TypeScript-blue" />
   <img src="https://img.shields.io/badge/Infra-VPS%20%7C%20Docker%20%7C%20Linux-success" />
-  <img src="https://img.shields.io/badge/Automation-n8n-orange" />
-  <img src="https://img.shields.io/badge/Crypto-Lightning%20Network%20%7C%20Nostr-yellow" />
+  <img src="https://img.shields.io/badge/Automation-n8n%20ADK%20-orange" />
+  <img src="https://img.shields.io/badge/Bitcoin-Lightning%20Network%20%7C%20Nostr-yellow" />
 </p>
 
 ---
