@@ -29,12 +29,9 @@ Autodidacta y apasionado por la tecnología como herramienta para potenciar habi
 ---
 
 ## Skills & knowledge
-- ✨ **Bitcoin / Lightning Network**
+- ✨ **Lightning Network**
 - ✨ **Nostr Protocol**
-- ✨ **n8n**
 - ✨ **Claude Code**
-- ✨ **Cursor**
-- ✨ **MCP's**
 - ✨ **Cloud/Docker/VPS**
 
 ---
@@ -48,17 +45,16 @@ Autodidacta y apasionado por la tecnología como herramienta para potenciar habi
 ---
 
 ## Proyectos destacados
-- 🧭 **Travelsats** – Plataforma de turismo con pagos Lightning y automatizaciones n8n.  
-- 🛠 **Xplorers.ar** – Implementación de soluciones digitales y automatización para agencias.  
-- 🖋 **Asistente AI para Escribanía** – Plantillas legales + RAG (Supabase/pgvector) para borradores con placeholders.  
-- 🛰 **Nostr Tools** – Integraciones, relays y experimentos (NDK/Next.js).
+- 🧭 **Travelsats** – Plataforma de turismo con pagos Lightning y automatizaciones n8n
+- 🛠 **Xplorers.ar** – Implementación de soluciones digitales y automatización para agencias
+- 🖋 **Asistente AI para Escribanía** – Plantillas legales + RAG (Supabase/pgvector)  
+- 🛰 **Nostr Tools** – Integraciones, relays y experimentos (NDK/Next.js)
 
 ---
 
 ## Contenido & Charlas
 - “**Pagos Instantáneos y Soberanía**: Bitcoin, Lightning y Nostr” (tech + austriaca)  
-- “**Nostr no es una red social**: es un protocolo — construí con él”  
-- Hilos educativos: Andreas Antonopoulos, teoría monetaria austriaca, P2P, LN & Nostr
+- “**Nostr no es una red social**: es un protocolo — construí con él” 
 
 ---
 
@@ -67,14 +63,6 @@ Autodidacta y apasionado por la tecnología como herramienta para potenciar habi
 <!-- 🔽 Mantengo TUS estadísticas tal cual -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardugarte&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardugarte&show_icons=true&theme=dark&hide_border=false)
-
-<!-- 🔽 Agrego 2 extras para impacto visual -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=cardugarte&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=cardugarte&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
-</p>
 
 ---
 
