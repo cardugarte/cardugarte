@@ -1,10 +1,3 @@
-<!-- Header animado -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-First+Full-Stack+Developer;Builder+%7C+Producto+%7C+Automatización;Claude+Code+%7C+Agents+%7C+LLMs;Bitcoin+%E2%9A%A1+Lightning+%7C+Nostr" alt="Typing SVG" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cardugarte&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="cardugarte profile views" />
 </p>
