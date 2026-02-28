@@ -92,10 +92,6 @@ Infra simple → contenedores, logs sanos, alertas mínimas
   <img src="https://streak-stats.demolab.com/?user=cardugarte&theme=dark&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cardugarte&theme=darkhub&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## Contacto & Colaboración
