@@ -96,10 +96,6 @@ Infra simple → contenedores, logs sanos, alertas mínimas
   <img src="https://github-profile-trophy.vercel.app/?username=cardugarte&theme=darkhub&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cardugarte&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
 ---
 
 ## Contacto & Colaboración
