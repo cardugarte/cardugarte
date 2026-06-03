@@ -18,7 +18,7 @@ Tres pilares:
 
 → **AI Agents** — agentes autónomos, Claude Code, MCP, ACP, RAG  
 → **Bitcoin / Lightning Network** — pagos soberanos, integraciones LN  
-→ **Ciberseguridad** — privacidad, open source, libre mercado
+→ **Ciberseguridad** — privacidad, open source
 
 ---
 
