@@ -54,10 +54,10 @@ Protocolos  → Lightning Network · Nostr (NDK)
 
 ---
 
-## Lenguajes
+## Stack visual
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardugarte&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,nextjs,python,docker,linux,nginx" alt="Tech stack" />
 </p>
 
 ---
